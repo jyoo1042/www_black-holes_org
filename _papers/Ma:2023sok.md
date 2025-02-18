@@ -13,7 +13,6 @@ jref: "Phys.Rev.D 107, 124051 (2023)"
 doi: "10.1103/PhysRevD.107.124051"
 date: 2023-04-24
 arxiv: "2304.11836"
-used_spec: true
 abstract: |
   We present a numerical-relativity simulation of a black hole-neutron
   star merger in scalar-tensor (ST) gravity with binary parameters
